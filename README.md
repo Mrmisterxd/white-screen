@@ -16,8 +16,8 @@
 ### *Basically, this program displays a white screen on the entire screen, thereby highlighting everything on the table with white light.*
 
 ## How do I exit this program?
-- To exit this program you need to press the esc key
-- Or the easiest way is to press Alt+F4 or close the program with Alt+Tab
+- To exit this program you need to press the `esc` key
+- Or the easiest way is to press `Alt+F4` or close the program with `Alt+Tab`
 
 ## ⚖️ Licensing
 
